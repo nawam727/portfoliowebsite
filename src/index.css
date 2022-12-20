@@ -38,6 +38,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
+    /*background-image: url(../src/assets/1.png);*/
     
 }
 
@@ -62,6 +63,7 @@ h1{
 
 section{
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, section > h5{
