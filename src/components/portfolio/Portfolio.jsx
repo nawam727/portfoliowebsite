@@ -1,4 +1,4 @@
-import React from 'react'
+         import React from 'react'
 import './portfolio.css'
 import IMG2 from '../../assets/p2.jpg'
 import IMG3 from '../../assets/p3.jpg'
@@ -13,8 +13,8 @@ const data = [
   {
     id: 1,
     image: IMG2,
-    title: 'React Introduction Project',
-    github: 'https://github.com/nawam727/reactintro'
+    title: 'C#.NET Brille Print Applicaton',
+    github: 'https://github.com/nawam727/BrailleWindowsApplication-SA'
   },
 
   {
@@ -27,8 +27,8 @@ const data = [
   {
     id: 3,
     image: IMG4,
-    title: 'Flutter with Firebase',
-    github: 'https://github.com/nawam727/futterXfirebase'
+    title: 'C#.NET PetShop Management Application',
+    github: 'https://github.com/nawam727/PetShop-Management-System-BP-ERP'
   },
 
   {
