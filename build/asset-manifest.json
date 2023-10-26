@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfoliowebsite/static/css/main.2e6054aa.css",
-    "main.js": "/portfoliowebsite/static/js/main.ba428f62.js",
-    "static/media/me.jpg": "/portfoliowebsite/static/media/me.68836ad196770b4c95ee.jpg",
-    "static/media/me4.jpg": "/portfoliowebsite/static/media/me4.da2d49df693b17e5d88a.jpg",
-    "static/media/p6.jpg": "/portfoliowebsite/static/media/p6.f628ffb8a0989eaa7569.jpg",
-    "static/media/p4.jpg": "/portfoliowebsite/static/media/p4.9d8bc2a632d0f8997845.jpg",
-    "static/media/p5.jpg": "/portfoliowebsite/static/media/p5.8ab2a0c579a2aebdb662.jpg",
-    "static/media/p3.jpg": "/portfoliowebsite/static/media/p3.40f791f0c5d2c8fb2666.jpg",
-    "static/media/p7.jpg": "/portfoliowebsite/static/media/p7.d0e9b3312602ff2c0a78.jpg",
-    "static/media/NawamDenawakage.pdf": "/portfoliowebsite/static/media/NawamDenawakage.c09f82584dae6a09b42c.pdf",
-    "static/media/p2.jpg": "/portfoliowebsite/static/media/p2.fd5daca6df0d07ff189d.jpg",
-    "index.html": "/portfoliowebsite/index.html",
-    "main.2e6054aa.css.map": "/portfoliowebsite/static/css/main.2e6054aa.css.map",
-    "main.ba428f62.js.map": "/portfoliowebsite/static/js/main.ba428f62.js.map"
+    "main.css": "/nawam727.github.io/portfoliowebsite/static/css/main.2e6054aa.css",
+    "main.js": "/nawam727.github.io/portfoliowebsite/static/js/main.07dab34b.js",
+    "static/media/me.jpg": "/nawam727.github.io/portfoliowebsite/static/media/me.68836ad196770b4c95ee.jpg",
+    "static/media/me4.jpg": "/nawam727.github.io/portfoliowebsite/static/media/me4.da2d49df693b17e5d88a.jpg",
+    "static/media/p6.jpg": "/nawam727.github.io/portfoliowebsite/static/media/p6.f628ffb8a0989eaa7569.jpg",
+    "static/media/p4.jpg": "/nawam727.github.io/portfoliowebsite/static/media/p4.9d8bc2a632d0f8997845.jpg",
+    "static/media/p5.jpg": "/nawam727.github.io/portfoliowebsite/static/media/p5.8ab2a0c579a2aebdb662.jpg",
+    "static/media/p3.jpg": "/nawam727.github.io/portfoliowebsite/static/media/p3.40f791f0c5d2c8fb2666.jpg",
+    "static/media/p7.jpg": "/nawam727.github.io/portfoliowebsite/static/media/p7.d0e9b3312602ff2c0a78.jpg",
+    "static/media/NawamDenawakage.pdf": "/nawam727.github.io/portfoliowebsite/static/media/NawamDenawakage.c09f82584dae6a09b42c.pdf",
+    "static/media/p2.jpg": "/nawam727.github.io/portfoliowebsite/static/media/p2.fd5daca6df0d07ff189d.jpg",
+    "index.html": "/nawam727.github.io/portfoliowebsite/index.html",
+    "main.2e6054aa.css.map": "/nawam727.github.io/portfoliowebsite/static/css/main.2e6054aa.css.map",
+    "main.07dab34b.js.map": "/nawam727.github.io/portfoliowebsite/static/js/main.07dab34b.js.map"
   },
   "entrypoints": [
     "static/css/main.2e6054aa.css",
-    "static/js/main.ba428f62.js"
+    "static/js/main.07dab34b.js"
   ]
 }
