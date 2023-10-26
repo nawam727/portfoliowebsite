@@ -1,9 +1,9 @@
 import React from 'react'
-import './about.css'
+import { FaAward } from 'react-icons/fa'
+import { FiUsers } from 'react-icons/fi'
+import { VscFolderLibrary } from 'react-icons/vsc'
 import ME from '../../assets/me4.jpg'
-import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import './about.css'
 
 const About = () => {
   return (
@@ -40,9 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique numquam nihil dicta, 
-            culpa unde consequuntur recusandae cumque esse, tenetur est, a nisi impedit voluptatum sunt placeat. 
-            Minus eligendi quo quos.
+          I am a highly enthusiastic, proactive, and technically proficient individual with a strong passion for tech and IT, 
+          dedicated to achieving success in the corporate world. Currently pursuing a BSc Honours degree in Software Engineering, 
+          I am captivated by the never-ending puzzle that is software engineering. I firmly believe in the transformative power of software to enhance the lives of people worldwide..
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

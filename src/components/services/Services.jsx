@@ -83,7 +83,7 @@ const Services = () => {
 
           {/*Content Creation Part */}
           <div className="service_head">
-            <h3>Content Creation</h3>
+            <h3>Mobile Application Development</h3>
           </div>
 
           <ul className='service_list'>
