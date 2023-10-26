@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website project! This website serves as a showcase of my skills, projects, and experiences as a software engineering undergraduate at NSBM Green University.
 
-![Portfolio Website Preview]((https://nawamdenawakage.vercel.app/#))
+![Portfolio Website Preview](https://nawamdenawakage.vercel.app/#)
 
 ## Table of Contents
 
