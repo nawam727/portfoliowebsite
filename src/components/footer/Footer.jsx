@@ -8,7 +8,7 @@ import {BsTwitter} from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer_logo'>CODEONEDEV.LK</a>
+      <a href='#' className='footer_logo'>Nawam Denawakage</a>
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
@@ -25,7 +25,7 @@ const Footer = () => {
       </div>
 
       <div className="footer_copyright">
-        <small> &copy; CODEONEDEV.LK. All right reserved</small>
+        <small> &copy; Nawam Denawakage. All right reserved</small>
       </div>
     </footer>
   )

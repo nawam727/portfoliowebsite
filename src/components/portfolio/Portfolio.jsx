@@ -20,8 +20,8 @@ const data = [
   {
     id: 2,
     image: IMG3,
-    title: 'Flutter Game Project',
-    github: 'https://github.com/nawam727/flutter_game'
+    title: 'Flutter Mobile Application',
+    github: 'https://github.com/nawam727/mad_project'
   },
 
   {
@@ -34,8 +34,8 @@ const data = [
   {
     id: 4,
     image: IMG5,
-    title: 'JAVA Project',
-    github: 'https://github.com/nawam727/AirlineController'
+    title: 'ReactJs Web Project',
+    github: 'https://github.com/nawam727/3D_dev_portfolio'
   },
 
   {
