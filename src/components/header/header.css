@@ -41,13 +41,12 @@ header {
 .me{
     /*background: linear-gradient(var(--color-primary));*/
     width: 22rem;
-    height: rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 3rem;
+    margin-top: 7rem;
     border-radius: 1rem;
     overflow: hidden;
-    padding: 4rem 1rem 1.rem 1.rem;
+    padding: 4rem 1rem 1 rem 1 rem;
     
 }
 
