@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website project! This website serves as a showcase of my skills, projects, and experiences as a software engineering undergraduate at NSBM Green University.
 
-![Portfolio Website Preview](/path/to/your/website-screenshot.png)
+![Portfolio Website Preview](https://nawamdenawakage.vercel.app/#)
 
 ## Table of Contents
 
@@ -28,8 +28,7 @@ This project is a personal portfolio website that I have created to showcase my 
 - **Resume Page**: Displays my qualifications and work experience.
 - **Portfolio Page**: Showcases my projects with descriptions and links.
 - **Blog Page**: Features articles where I share my thoughts and insights.
-- [Any other features you have implemented]
 
 ## Getting Started
 
-To view my portfolio website, simply visit [insert the live website URL here]. You can navigate through the different pages to learn more about me, my work, and my blog posts.
+To view my portfolio website, simply visit [https://nawamdenawakage.vercel.app/#]. You can navigate through the different pages to learn more about me, my work, and my blog posts.
