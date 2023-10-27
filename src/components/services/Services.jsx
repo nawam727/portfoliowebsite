@@ -11,36 +11,16 @@ const Services = () => {
       <div className="container services_container">
         <article className='service'>
 
-          {/*UI/UX Part */}
+          {/*Mobile App */}
           <div className="service_head">
-            <h3>Backend Development</h3>
+            <h3>App Development</h3>
           </div>
 
           <ul className='service_list'>
             <li>
               <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Creating intuitive and cutting-edge mobile apps designed for both iOS and Android platforms.</p>
             </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            {/*<li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-  </li>*/}
           </ul>
         </article>
 
@@ -54,62 +34,70 @@ const Services = () => {
           <ul className='service_list'>
             <li>
               <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Transforming design concepts into responsive and user-friendly websites, using well-structured code to ensure seamless interactivity and optimal speed and efficiency.</p>
             </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            {/*<li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-</li> */}
           </ul>
         </article>
 
         <article className='service'>
 
-          {/*Content Creation Part */}
+          {/*UI/UX */}
           <div className="service_head">
-            <h3>Mobile Application Development</h3>
+            <h3>UI/UX Design</h3>
           </div>
 
           <ul className='service_list'>
             <li>
               <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Blending imagination and understanding to design user experiences that flow effortlessly and user interfaces that captivate the eye, enhancing digital interactions and bringing joy to users.</p>
             </li>
+          </ul>
+        </article>
+      </div>
+      <br></br>
+      <br></br>
+      <div className="container services_container">
+        <article className='service'>
+
+          {/*DevOps Services */}
+          <div className="service_head">
+            <h3>DevOps Services</h3>
+          </div>
+
+          <ul className='service_list'>
             <li>
               <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Improving software development by facilitating smooth teamwork, streamlining processes through automation, and expediting deployment..</p>
             </li>
+          </ul>
+        </article>
+
+        <article className='service'>
+
+          {/*Content Creation and Copywriting */}
+          <div className="service_head">
+            <h3>Content Creation and Copywriting</h3>
+          </div>
+
+          <ul className='service_list'>
             <li>
               <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Crafting captivating content for websites and applications, elevating their search engine visibility, driving organic traffic, and enhancing their online presence.</p>
             </li>
+          </ul>
+        </article>
+
+        <article className='service'>
+
+          {/*SEO Marketing */}
+          <div className="service_head">
+            <h3>SEO Marketing</h3>
+          </div>
+
+          <ul className='service_list'>
             <li>
               <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheck className= 'service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Enhancing websites and applications to boost their visibility on search engines, ultimately driving natural, unpaid traffic and increasing their online presence.</p>
             </li>
           </ul>
         </article>
