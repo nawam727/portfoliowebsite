@@ -13,7 +13,7 @@ const Services = () => {
 
           {/*UI/UX Part */}
           <div className="service_head">
-            <h3>UI/UX Design</h3>
+            <h3>Backend Development</h3>
           </div>
 
           <ul className='service_list'>
