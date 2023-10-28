@@ -13,42 +13,42 @@ const data = [
   {
     id: 1,
     image: IMG2,
-    title: 'C#.NET Brille Print Applicaton',
+    title: 'Brille Print Applicaton',
     github: 'https://github.com/nawam727/BrailleWindowsApplication-SA'
   },
 
   {
     id: 2,
     image: IMG3,
-    title: 'Flutter Mobile Application',
+    title: 'N-Side App for NSBM Green University',
     github: 'https://github.com/nawam727/mad_project'
   },
 
   {
     id: 3,
     image: IMG4,
-    title: 'C#.NET PetShop Management Application',
+    title: 'PetShop Management Application',
     github: 'https://github.com/nawam727/PetShop-Management-System-BP-ERP'
   },
 
   {
     id: 4,
     image: IMG5,
-    title: 'ReactJs Web Project',
+    title: '3D Portfolio Website',
     github: 'https://github.com/nawam727/3D_dev_portfolio'
   },
 
   {
     id: 5,
     image: IMG6,
-    title: 'GreenerLand Web Project',
+    title: 'GreenerLand Website',
     github: 'https://github.com/nawam727/GreenerLand_Web'
   },
 
   {
     id: 6,
     image: IMG7,
-    title: 'Food Application',
+    title: 'Money Go Expence Tracker',
     github: 'https://github.com/nawam727/find_food_application'
   },
 ]

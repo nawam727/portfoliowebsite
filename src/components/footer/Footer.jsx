@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import {BsFacebook, BsLinkedin} from 'react-icons/bs'
+import {BsDribbble, BsFacebook, BsLinkedin} from 'react-icons/bs'
 import {BsInstagram} from 'react-icons/bs'
 import {BsTwitter} from 'react-icons/bs'
 
@@ -23,6 +23,7 @@ const Footer = () => {
         <a href="https://web.facebook.com/nawam727"><BsFacebook/></a>
         <a href="https://www.instagram.com/sahaz__dd/"><BsInstagram/></a>
         <a href="https://twitter.com/NawamDenawakage"><BsTwitter/></a>
+        <a href="https://twitter.com/NawamDenawakage"><BsDribbble/></a>
       </div>
 
       <div className="footer_copyright">
