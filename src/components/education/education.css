@@ -1,0 +1,125 @@
+.education {
+    padding-top: 0px;
+}
+
+.education-title {
+    color: var(--color-primary);
+    margin-bottom: 3rem;
+}
+
+.education-horizontal-timeline {
+    padding: 30px 0;
+}
+
+.single-horizontal-timeline .experience-time h3 {
+    text-transform: capitalize;
+}
+
+.single-horizontal-timeline .experience-time h3 span {
+    text-transform: lowercase;
+}
+
+.single-horizontal-timeline .timeline-content h5 {
+    margin: 5px 0;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+
+.col-sm-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-bg-variant);
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+.col-sm-4:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+
+.single-horizontal-timeline p {
+    color: #999fb3;
+    max-width: 335px;
+}
+
+.timeline-horizontal-border {
+    display: flex;
+    align-items: center;
+    padding: 26px 0 30px;
+}
+
+.timeline-horizontal-border i {
+    font-size: 10px;
+    color: #d92cf9;
+    margin-right: 5px;
+}
+
+span.single-timeline-horizontal {
+    display: inline-block;
+    background: #b2c1ce;
+    height: 1px;
+    width: 380px;
+}
+
+span.single-timeline-horizontal.spacial-horizontal-line {
+    width: 88px;
+}
+
+/* Adjust max-width for responsiveness */
+.container {
+    max-width: 70%; /* Adjust this value as needed */
+    margin: 0 auto; /* Center the container */
+}
+
+/* Responsive adjustments for tablets */
+@media screen and (max-width: 1024px) {
+    .education-title {
+        margin-bottom: 2rem;
+    }
+
+    .row {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+    .col-sm-4 {
+        padding: 2rem;
+    }
+}
+
+/* Responsive adjustments for mobiles */
+@media screen and (max-width: 600px) {
+    .education-title {
+        margin-bottom: 1.5rem;
+    }
+
+    .row {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .col-sm-4 {
+        padding: 1.5rem;
+    }
+
+    .timeline-horizontal-border {
+        padding: 18px 0 22px;
+    }
+
+    .single-timeline-horizontal {
+        width: 260px;
+    }
+
+    .single-timeline-horizontal.spacial-horizontal-line {
+        width: 58px;
+    }
+}
