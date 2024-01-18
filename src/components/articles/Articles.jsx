@@ -1,16 +1,16 @@
 import React from 'react'
 import './articles.css'
-import {BsCheck} from 'react-icons/bs'
-import {BsDot} from 'react-icons/bs'
+import { BsCheck, BsDot } from 'react-icons/bs'
+
 
 const Articles = () => {
   return (
     <section id='articles'>
-      <h5>What I Wrote</h5>
+      <h5>My Recent Articles</h5>
       <h2>Articles</h2>
 
       <div className="container services_container">
-        <article className='service'>
+        <article className='articles'>
 
           {/*Mobile App */}
           <ul className='service_list'>
@@ -25,7 +25,7 @@ const Articles = () => {
           </ul>
         </article>
 
-        <article className='service'>
+        <article className='articles'>
 
           {/*Wb developing Part */}
           <ul className='service_list'>
@@ -40,7 +40,7 @@ const Articles = () => {
           </ul>
         </article>
 
-        <article className='service'>
+        <article className='articles'>
 
           {/*UI/UX */}
           <ul className='service_list'>

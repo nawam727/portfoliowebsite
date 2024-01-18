@@ -5,15 +5,15 @@
     margin-bottom: 3rem;
 }
 
-.service {
+.articles {
     background: var(--color-bg-variant);
+    border: 1px solid transparent;
     border-radius: 2rem 2rem 2rem 2rem;
-    border: 1px solid var(--color-primary);
     height: fit-content;
     transition: var(--transition);
 }
 
-.service:hover {
+.articles:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
@@ -63,7 +63,7 @@
         gap: 2rem;
     }
 
-    .service {
+    .articles {
         height: auto;
     }
 }
