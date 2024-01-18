@@ -1,7 +1,7 @@
 import React from 'react';
 import './contact.css';
 import { MdEmail } from 'react-icons/md';
-import { RiMessengerLine } from 'react-icons/ri';
+import { RiLinkedinLine } from 'react-icons/ri';
 import { RiWhatsappLine } from 'react-icons/ri';
 import { useRef } from 'react';
 import emailjs from 'emailjs-com';
@@ -46,17 +46,17 @@ const Contact = () => {
           </article>
 
           <article className="contact_option">
-            <RiMessengerLine />
-            <h4>Messenger</h4>
+            <RiLinkedinLine />
+            <h4>LinkedIn</h4>
             <h5>Nawam Sahasra</h5>
-            <a href="https://m.me/nawam727">Send a message</a>
+            <a href="https://www.linkedin.com/in/nawamsahasra/">Send a message</a>
           </article>
 
           <article className="contact_option">
             <RiWhatsappLine />
             <h4>WhatsApp</h4>
             <h5>+94 767312274</h5>
-            <a href="https://api.whatsapp.com/send?phone+94767312274">Send a message</a>
+            <a href="https://wa.link/6xgosb">Send a message</a>
           </article>
         </div>
 
