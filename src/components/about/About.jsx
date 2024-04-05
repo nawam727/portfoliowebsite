@@ -40,9 +40,8 @@ const About = () => {
           </div>
 
           <p>
-          I am a highly enthusiastic, proactive, and technically proficient individual with a strong passion for tech and IT, 
-          dedicated to achieving success in the corporate world. Currently pursuing a BSc Honours degree in Software Engineering, 
-          I am captivated by the never-ending puzzle that is software engineering. I firmly believe in the transformative power of software to enhance the lives of people worldwide..
+          A <b>Undergraduate</b>, <b>Intern DevOps Engineer</b>, <b>Developer</b> and <b>Technical Writer</b> passionate about solving problems with tech.
+          I am skilled with building exceptional <b>websites</b> and <b>mobile applications</b>, and currently i'm exploring the DevOps things and Development things.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

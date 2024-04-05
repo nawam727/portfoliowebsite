@@ -1,5 +1,6 @@
 import React from 'react'
-import { BsFacebook, BsInstagram, BsLinkedin, BsMedium, BsTwitter } from 'react-icons/bs'
+import { BsInstagram, BsLinkedin, BsMedium, BsGithub } from 'react-icons/bs'
+import {FaXTwitter} from 'react-icons/fa6';
 import './footer.css'
 
 
@@ -19,15 +20,14 @@ const Footer = () => {
       </ul>
 
       <div className="footer_socials">
-      <a href="https://www.linkedin.com/in/nawamsahasra/"><BsLinkedin/></a>
-        <a href="https://web.facebook.com/nawam727"><BsFacebook/></a>
-        <a href="https://www.instagram.com/sahaz__dd/"><BsInstagram/></a>
-        <a href="https://twitter.com/NawamDenawakage"><BsTwitter/></a>
+        <a href="https://www.linkedin.com/in/nawamsahasra/"><BsLinkedin/></a>
+        <a href='https://github.com/nawam727'><BsGithub/></a>
+        <a href="https://twitter.com/NawamDenawakage"><FaXTwitter/></a>
         <a href="https://medium.com/@nawamdenawakage"><BsMedium/></a>
       </div>
 
       <div className="footer_copyright">
-        <small> &copy; Nawam Denawakage. All right reserved</small>
+        <small> &copy; Nawam Denawakage. All right reserved 2024</small>
       </div>
     </footer>
   )

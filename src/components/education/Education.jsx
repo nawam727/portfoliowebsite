@@ -4,7 +4,7 @@ import './education.css';
 const Education = () => {
     return (
         <section id="education" className="education">
-            <h5>What I Have</h5>
+            <h5>Explore Me</h5>
             <h2 className="education-title">Education</h2>
             <div className="section-heading text-center">
             </div>
