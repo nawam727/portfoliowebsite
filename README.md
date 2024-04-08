@@ -20,7 +20,7 @@ This project is a personal portfolio website that I have created to showcase my 
 - HTML
 - CSS
 - JavaScript
-- [Any other technologies or frameworks you have used]
+- ReactJS
 
 ## Features
 
